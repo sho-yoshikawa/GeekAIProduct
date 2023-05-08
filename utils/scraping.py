@@ -12,7 +12,7 @@ GREEN = '\033[92m'
 ENDC    = '\033[0m'
 CHROMEDRIVER = "./chromedriver"
 EMAIL = "shaun.the.earth@icloud.com"
-PASSWORD = "shaun7218"
+PASSWORD = "********"
 FILENAME = "./training_data/training.txt"
 
 index = 1
